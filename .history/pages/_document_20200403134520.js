@@ -14,7 +14,7 @@ class MyDocument extends Document {
 					<meta name="theme-color" content="#673ab7" />
 					<meta
 						name="Description"
-						content="Asset Admin app with 100% accessible lighthouse score"
+						content="an example of NextJS app with 100% accessible lighthouse score"
 					/>
 					<link rel="manifest" href="static/manifest.json" />
 					<link rel="icon" href="static/img/favicon.ico" />

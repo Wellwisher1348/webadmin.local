@@ -43,7 +43,7 @@ export default class MyApp extends App {
 		return (
 			<>
 				<Head>
-					<title>Carilion Printer Admin</title>
+					<title>Todo App</title>
 				</Head>
 				<ThemeProvider theme={theme}>
 					<CssBaseline>

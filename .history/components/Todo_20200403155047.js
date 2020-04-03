@@ -58,7 +58,7 @@ const Todo = () => {
 			direction="column"
 		>
 			<header>
-				<img src="/static/img/android-chrome-192x192.png" alt="Logo" />
+				<img src="/static/img/android-chrome-192x192.png" alt="Logo" /><br></br>
 			</header>
 			
 			<Paper component="main" className={classes.paper}>

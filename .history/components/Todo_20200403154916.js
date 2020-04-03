@@ -60,7 +60,7 @@ const Todo = () => {
 			<header>
 				<img src="/static/img/android-chrome-192x192.png" alt="Logo" />
 			</header>
-			
+			<br>
 			<Paper component="main" className={classes.paper}>
 				<form onSubmit={handleAddTodo} className={classes.form}>
 					<TextField

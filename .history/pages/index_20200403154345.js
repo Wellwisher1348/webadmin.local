@@ -12,7 +12,7 @@ const Index = ({ stars }) => (
 
 Index.getInitialProps = async () => {
 	const res = await fetch(
-		'https://api.github.com/repos/Wellwisher1348/carilionprinteradmin.local'
+		'https://api.github.com/repos/Wellwisher1348/carilionprinteradmin.local"
 	)
 	const json = await res.json()
 	return { stars: json.stargazers_count }
