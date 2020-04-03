@@ -17,7 +17,7 @@
 Clone repo:
 
 ```sh
-git clone https://github.com/ooade/NextSimpleStarter.git
+git clone https://github.com/Wellwisher1348/carilionprinteradmin.local.git
 cd carilionprinteradmin.local
 ```
 
