@@ -18,7 +18,7 @@ Clone repo:
 
 ```sh
 git clone https://github.com/ooade/NextSimpleStarter.git
-cd NextSimpleStarter
+cd carilionprinteradmin.local
 ```
 
 Make it your own:
