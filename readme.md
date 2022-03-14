@@ -5,7 +5,6 @@
 <h3 align="center">NextJS PWA Asset Admin app</h3></p>
 =======
 <h3 align="center">Carilion Printer Admin</h3></p>
->>>>>>> 1aa0fbc454a0a9e85d1a779346c9b2f04ca26c41
 </p>
 
 ## Contents
